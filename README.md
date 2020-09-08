@@ -1,2 +1,2 @@
-# ftbcproject1
-Repo for the first fintech project
+# Economic Stimulus Research
+Analyzing the criteria for the 2020 CARES Act as it relates to households. Important household costs were examined along with overal indicators for the US economy. An alternate proposal for a stimulus package geared towards households is also included.
